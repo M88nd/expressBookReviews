@@ -1,0 +1,7 @@
+$ curl -s https://api.github.com/repos/M88nd/expressBookReviews | grep -E '"(full_name|fork)"'
+  "full_name": "M88nd/expressBookReviews",
+  "fork": true,
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "fork": false,
